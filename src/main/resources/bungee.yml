@@ -1,0 +1,4 @@
+name: SendPlayers
+version: '${project.version}'
+main: tech.secretgarden.sendplayers.SendPlayers
+description: BungeeCord plugin to send players across servers
